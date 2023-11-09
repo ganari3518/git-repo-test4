@@ -1,6 +1,6 @@
 ## 기본 문법
 
-- **굵은 글씨**와 __기울인 글씨__를 사용할 수 있습니다.
+- **굵은 글씨**와 *기울인 글씨*를 사용할 수 있습니다.
 - [링크](https://www.github.com)를 삽입하여 참조할 수 있습니다..
 - 이미지를 추가하는 방법은 다음과 같습니다:
   ![이미지 대체 텍스트](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
